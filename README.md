@@ -64,8 +64,7 @@ web development technologies.
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IT24100507&show_icons=true&theme=tokyonight)
-
+💻 Actively learning and building projects with GitHub.
 ---
 
 ## 🌐 Connect With Me
